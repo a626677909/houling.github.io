@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://a626677909.github.io/'
 locale = 'en-us'
 title = '侯凌的小屋'
 theme = "PaperMod"
@@ -11,4 +11,4 @@ theme = "PaperMod"
 
 [[params.socialIcons]]
     name = "github"
-    url = "https://github.com/你的用户名"
+    url = "https://github.com/a626677909"
